@@ -7,5 +7,6 @@ An overview about me:
 - 👯 I’m looking to collaborate on projects that will create value for developers and organizations.
 - 💬 Ask me about VueJS, NodeJS, JavaScript, Flutter.
 - 📫 How to reach me: ibiyemipedro@gmail.com
+- 📠 Read my write-ups on: www.ibiyemipedro.medium.com
 - ⚡ Fun fact: I admire Cristiano Ronaldo for his work ethics, plus I think I'd be a navy seal in my next work cos I cancel people alot on COD
 
