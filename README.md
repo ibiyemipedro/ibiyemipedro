@@ -8,5 +8,6 @@ An overview about me:
 - 💬 Ask me about VueJS, NodeJS, JavaScript, Flutter.
 - 📫 How to reach me: ibiyemipedro@gmail.com
 - 📠 Read my write-ups on: www.ibiyemipedro.medium.com
+- 🎙 On my free time, I record the techbro podcast : www.techbro.buzzsprout.com
 - ⚡ Fun fact: I admire Cristiano Ronaldo for his work ethics, plus I think I'd be a navy seal in my next work cos I cancel people alot on COD
 
