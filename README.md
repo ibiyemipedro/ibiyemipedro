@@ -2,7 +2,7 @@
 
 An overview about me:
 
-- 🔭 I’m currently working on Express, NodeJS, VueJS, Flutter, projects using TypeScript, JavaScript, Dart, PosrgresSql, MongoDB, MySQl deployed on AWS, Netlify or Digital Ocean
+- 🔭 I’m currently working on Express (REST and GraphQL APIs), NodeJS, VueJS, Flutter, projects using TypeScript, JavaScript, Dart, PosrgresSql, MongoDB, MySQl, Docker,  deployed on AWS, Netlify or Digital Ocean
 - 🌱 I’m currently learning Python with applications in Artificail Intelligence and Machine Learnings
 - 👯 I’m looking to collaborate on projects that will create value for developers and organizations.
 - 🎯 I’m really big on clean and readable codebase, properly tested (unit and integration) and documented, automation (CI/CD) and following best practices.
