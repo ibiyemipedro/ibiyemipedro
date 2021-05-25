@@ -10,5 +10,5 @@ An overview about me:
 - 📫 How to reach me: ibiyemipedro@gmail.com
 - 📠 Read my write-ups on: https://ibiyemipedro.medium.com/
 - 🎙 On my free time, I record the techbro podcast : https://techbro.buzzsprout.com/
-- ⚡ Fun fact: I admire Cristiano Ronaldo for his work ethics, plus I think I'd be a navy seal in my next work cos I cancel people alot on COD
+- ⚡ Fun fact: I admire Cristiano Ronaldo for his work ethics, plus I think I'd be a navy seal in my next profession cos I cancel people alot on COD
 
